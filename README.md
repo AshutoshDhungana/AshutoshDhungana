@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Dhungana</h1>
-<h3 align="center">Hello!👋 and Namaste🙏 I am Ashutosh Dhungana, currently studying Computer Engineering🧑‍💻, at Khwopa Engineering College. I have a keep interest in Data Science and AI, and also do photo and logo designing in Photoshop and Illustrator. Currently Emcee in HultPrize at KhEC. I love to join different clubs and communities and Wish to create the next Multi-trillion Dollar Company💸😜</h3>
+<h3 align="center">Hello!👋 and Namaste🙏 I am Ashutosh Dhungana, currently studying Computer Engineering🧑‍💻, at Khwopa Engineering College. I have a keen interest in Data Science and AI, and am also exploring different fields like web-dev, web3 and devops</h3>
 
 - 🌱 I’m currently learning **Python and DSA**
 
