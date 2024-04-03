@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and DSA**
 
-- 💬 Ask me about **Anything(though i wont be able to answer any)**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ashutoshdhungana2004@gmail.com**
 
